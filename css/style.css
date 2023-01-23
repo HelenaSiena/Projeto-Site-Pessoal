@@ -29,7 +29,7 @@ footer p{
     width: 50%;
 }
 
-/*Media Queries*/
+/*Media Queries*/  
 /* Extra small devices (portrait phones, less than 576px)*/
 @media (max-width: 575.98px) {
     .display-4 { 
